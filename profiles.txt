@@ -8,8 +8,9 @@
    <h3>グループメンバーのプロフィール</h3>
    <!-- 飯塚 -->
    <table border="1">
-   <TD rowspan"3"><img src ="https://avatars1.githubusercontent.com/u/19257835?v=3&s=460"></TD>
-   <TD>名前</TD> <TD>飯塚亮太</TD></TR>
+
+   <TD rowspan="4"><img src ="https://avatars1.githubusercontent.com/u/19257835?v=3&s=460"></TD>
+  <TR><TD>名前</TD> <TD>飯塚亮太</TD></TR>
 　　　<TR><TD>UserID</TD> <TD>Zuka21</TD></TR>
    <TR><TD>e-mail</TD> <TD>k014c1143@it-neec.jp</TD></TR>
    </table>
