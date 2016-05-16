@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+   <meta charset="UTF-8">
+   <title>Profiles</title>
+</head>
+<body>
+   <h3>グループメンバーのプロフィール</h3>
+   <!-- 飯塚 -->
+   <table border="1">
+   </table>
+   <br>
+   <!-- 冨樫 -->
+   
+   <!-- 君島 -->
+
+   <!-- 渡邉 -->
+
+ </body>
+
